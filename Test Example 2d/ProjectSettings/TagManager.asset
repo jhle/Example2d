@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CoinPickup
+  - Background
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Sprites
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3478356657
+    locked: 0
+  - name: ForeGround
+    uniqueID: 450527045
+    locked: 0
+  - name: Coin pickup
+    uniqueID: 2960873867
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Bar Fill
+    uniqueID: 462516881
+    locked: 0
+  - name: Bar Border
+    uniqueID: 3035620351
+    locked: 0
